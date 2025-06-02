@@ -1,0 +1,15 @@
+## Z-Score
+
+O escore z indica a distância, em desvios-padrão, de um determinado ponto de dados em relação
+à média dos dados. Um escore z positivo indica que o ponto de dados está acima da média,
+enquanto um escore z negativo indica que está abaixo da média. Valores com Z-Score maior que 3 ou menor que -3
+são frequentemente considerados outliers.
+
+## IQR
+É uma técnica estatística baseada nos quartis do conjunto de dados e no intervalo interquartil (IQR),
+que é definido como a diferença entre o terceiro quartil (Q3) e o primeiro quartil (Q1).
+Outliers são tipicamente definidos como valores que estão a 1,5 vezes o intervalo interquartil (IQR)
+acima do terceiro quartil ou abaixo do primeiro quartil.
+
+## Lambda
+São funções sem nome, são feitas para serem pequenas, rápidas e diretas ao ponto.
